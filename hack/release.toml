@@ -51,10 +51,10 @@ Open-iSCSI: 2.1.11
 The NFS server (nfds) as a kernel module is now supported as a system extension.
 """
 
-    [notes.v3d]
-        title = "V3D Driver"
+    [notes.vc4]
+        title = "VC4 Driver"
         description = """\
-The V3D driver (v3d) as a kernel module is now supported as a system extension.
+The VC4 driver (vc4) as a kernel module is now supported as a system extension.
 """
 
 [make_deps]
