@@ -2,3 +2,4 @@ modules.order
 modules.builtin
 modules.builtin.modinfo
 kernel/drivers/gpu/drm/v3d/v3d.ko
+kernel/drivers/gpu/drm/vc4/vc4.ko

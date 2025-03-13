@@ -1,4 +1,4 @@
-name: v3d
+name: vc4
 variant: scratch
 shell: /bin/bash
 dependencies:

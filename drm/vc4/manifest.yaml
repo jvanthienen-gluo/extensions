@@ -1,0 +1,10 @@
+version: v1alpha1
+metadata:
+  name: vc4
+  version: "$VERSION"
+  author: Gluo NV
+  description: |
+    This system extension provides Broadcom VideoCore VI GPU firmware and kernel modules.
+  compatibility:
+    talos:
+      version: ">= v1.9.0"
